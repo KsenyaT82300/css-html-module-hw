@@ -1,0 +1,18 @@
+ .body {
+     color: #555;
+      }
+.image {
+width: 200px;
+height: 200px;
+border: 9px rgb(246, 171, 142);
+border-radius: 20%;
+border-style: double
+}
+.list1 {
+  border: 5px rgb(89, 129, 204);
+  background-color: lightcyan;
+}
+.list2 {
+  border: 5px rgb(140, 10, 10);
+  background-color: lightsalmon;
+}
